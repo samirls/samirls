@@ -1,7 +1,7 @@
 ## Hello there! I'm Samir, Full Stack Web Developer 🙂
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://samirls.github.io/samirlaguardia/)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://samirls.github.io/samirlaguardia/](https://www.linkedin.com/in/samir-laguardia/)https://www.linkedin.com/in/samir-laguardia/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-laguardia/)
 
 ### Technologies that are familiar to me:
 <div style="display: inline_block">
