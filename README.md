@@ -2,7 +2,7 @@
 <h4>Welcome to my Github page. Here, you can explore my projects and the subjects I'm studying. This space is very personal, offering a glimpse into my journey, including unfinished ideas and my early projects.</h4>
 <h3>Visit my Website:</h3>
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://samirls.github.io/samirlaguardia/)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.samirlaguardia.com/)
 
 <h3>Contact me:</h3>
 
